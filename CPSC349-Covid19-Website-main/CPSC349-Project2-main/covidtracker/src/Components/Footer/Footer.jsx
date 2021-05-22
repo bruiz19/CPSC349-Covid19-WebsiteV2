@@ -17,7 +17,7 @@ const Footer = () => {
           
           Created by{" "}
           <a
-            href="https://github.com/bruiz19/CPSC349_COVID19_Web_Project.git"
+            href="https://github.com/bruiz19/CPSC349-Covid19-WebsiteV2.git"
             target="_blank"
             rel="noopener noreferrer"
             style={{ color: "rgba(0,0,255,0.6)", textDecoration: "none" }}
